@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.testfx:testfx-core:4.0.5-alpha">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/testfx/testfx-core/4.0.5-alpha/testfx-core-4.0.5-alpha.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

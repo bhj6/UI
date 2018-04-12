@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.codehaus.griffon:griffon-core-test:2.14.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/griffon/griffon-core-test/2.14.0/griffon-core-test-2.14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
